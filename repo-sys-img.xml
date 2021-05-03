@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<sdk:sdk-sys-img
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:sdk="http://schemas.android.com/sdk/android/sys-img/3">
+    <sdk:system-image>
+        <sdk:revision>7</sdk:revision>
+        <sdk:description>Android SDK System Image</sdk:description>
+        <sdk:api-level>30</sdk:api-level>
+        <sdk:abi>x86</sdk:abi>
+        <sdk:tag-id>default</sdk:tag-id>
+        <sdk:tag-display>Default Android System Image</sdk:tag-display>
+        <sdk:archives>
+            <sdk:archive>
+                <sdk:size>512639898</sdk:size>
+                <sdk:checksum type='sha1'>00214aa2ceebf3b4b7ed6f6d16b6779dfbf4cbd4</sdk:checksum>
+                <sdk:url>https://github.com/Baireal/android/raw/master/sdk-repo-linux-system-images-eng.bai.zip</sdk:url>
+        <sdk:host-os>linux</sdk:host-os>
+            </sdk:archive>
+        </sdk:archives>
+    </sdk:system-image>
+</sdk:sdk-sys-img>
